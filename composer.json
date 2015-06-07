@@ -1,0 +1,38 @@
+{
+    "name": "divarsoy/petwars",
+    "description": "Pet Wars Game",
+    "keywords": [
+        "Pet Wars"
+    ],
+    "homepage": "https://github.com/divarsoy/petwars",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dag A. Ivarsøy",
+            "email": "dag@ivarsoysolutions.co.uk",
+            "homepage": "https://ivarsoysolutions.co.uk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Divarsoy\\PetWars\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Divarsoy\\PetWars\\Test\\": "tests"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
