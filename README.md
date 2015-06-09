@@ -7,7 +7,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/divarsoy/petwars.svg?style=flat-square)](https://scrutinizer-ci.com/g/divarsoy/petwars)
 [![Total Downloads](https://img.shields.io/packagist/dt/divarsoy/petwars.svg?style=flat-square)](https://packagist.org/packages/divarsoy/petwars)
 
-Pet Wars is a competency test to show understanding of basic object orientated principles. This is my response to test. 
+Pet Wars is a competency test to show understanding of basic object orientated principles. This is my response to the test. 
 
 ## Install
 
